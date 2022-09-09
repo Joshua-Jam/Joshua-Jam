@@ -1,3 +1,3 @@
 - Heya! Im Joshua, a programmer curently based in Brasil looking to learn new things and show them to the world.
-- Im fond of learning new programming languages and my most recent ones are Elixir and Go.
-- Im currently focusing myself back into front-end development.
+- Im fond of learning new programming languages.
+- Im currently focusing myself in front-end development.
