@@ -1,3 +1,3 @@
-- Heya! Im Joshua, a programmer curently based in Brasil looking to learn new things and show them to the world.
+- Heya! Im Joshua, a programmer based in Brasil looking to test new things.
 - Im fond of learning new programming languages.
-- Im currently focusing myself in PHP development.
+- Im currently focusing myself in Java development.
